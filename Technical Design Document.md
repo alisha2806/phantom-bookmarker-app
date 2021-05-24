@@ -5,6 +5,14 @@ Simple application for bookmarking webistes.
 
 It uses bootstrap and jquery minified files as well for designing the application form.
 
+
+### To Install the dependencies/packages
+run $npm install
+
+### To Run Webpack
+run $npm run build
+
+
 ### Version
 1.0.0
 
